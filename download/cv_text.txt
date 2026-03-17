@@ -1,0 +1,62 @@
+                                 YASSIN MARMOUD
+                     Software Engineer • EDI Integration Specialist • 42Wolfsburg Student
+                    + Wolfsburg, Germany      |    Driver’s License (Class B)   |       # ymarmond@gmail.com
+                   +49 152 13154958     |   ï linkedin.com/in/yassin-marmoud        |    § github.com/EvilleveR
+
+
+
+
+PROFESSIONAL SUMMARY
+Results-driven Software Engineer and Electronic Data Interchange (EDI) Integration Specialist with 3+ years of hands-on
+experience in backend development, system integration, and technical support. Currently enrolled at 42 Wolfsburg (Germany,
+Jan 2025–Present), deepening expertise in systems programming, algorithms, and Agile software engineering. Proven record of 100%
+data accuracy across global EDI workflows and a strong track record of cross-functional collaboration with international teams.
+Trilingual (English, French, Arabic). Targeting mid-level Software Engineer, Backend Developer, or EDI Integration roles
+in Germany.
+TECHNICAL SKILLS
+EDI & Integration: EDI (X12, EDIFACT, XML), EDI Mapping, iPaaS, Workflow Automation, REST API, API Integration
+Programming: Python, Java, Go, TypeScript, Vue.js, Bash
+DevOps & Cloud: Linux, Docker, CI/CD, Git, Bash Scripting, AWS (basic), Azure (basic)
+Databases: Oracle DB, PostgreSQL, SQL
+Tools: ServiceNow, ITIL/SLA, Agile/Scrum, Storj, UpLink
+Soft Skills: Cross-functional collaboration, client communication, problem-solving, multilingual (EN/FR/AR)
+
+PROFESSIONAL EXPERIENCE
+
+                                                                                                                Jan 2024 – Jan 2025
+EDI Software Integrator / Consultant EDICOMGROUP — Casablanca, Morocco
+• Managed 8–12 concurrent EDI projects end-to-end using Agile: scoping, mapping, testing, and production rollout.
+• Achieved 100% data accuracy across all EDI transactions by developing precise mapping docs and REST API valida-
+  tions.
+• Implemented custom EDI solutions (X12, EDIFACT, XML) for 6–10 international clients, improving exchange efficiency.
+• Resolved 15–30 transaction discrepancies per cycle via root-cause analysis, significantly cutting resolution time.
+• Raised client satisfaction 20–25% through proactive cross-functional collaboration and remote support.
+                                                                                                                Oct 2022 – Oct 2023
+Technical Support Engineer WhaleCloud Technology — Budapest, Hungary
+• Cut system downtime by 30% through Linux Bash automation scripts targeting recurring alarm patterns.
+• Maintained 99% data accuracy executing Oracle DB reads/updates; resolved B2C and B2B issues on Zsmart platform.
+• Partnered with Agile development teams to diagnose and fix software defects across production environments.
+                                                                                                                   Jul 2021 – Sep 2021
+Software Engineer Intern Ericsson Research — Budapest, Hungary
+ • Built REST API integrations with cloud systems using Vue.js, TypeScript, and Go; managed PostgreSQL databases.
+ • Operated CI/CD pipelines and version control using Docker, Git, and Bash for the Storj cloud storage project.
+                                                                                                                   Apr 2021 – Jul 2021
+Service Desk Analyst Tata Consultancy Services (TCS) — Budapest, Hungary
+ • Delivered trilingual IT support (EN/FR/AR) in ServiceNow Cloud within strict ITIL/SLA frameworks.
+ • Maintained 95% first-call resolution (FCR) rate across hardware, software, and network incidents.
+EDUCATION
+
+                                                                                                                    Jan 2025 – Present
+Software Engineering Program (Ongoing) 42 Wolfsburg — Wolfsburg, Germany
+ • Peer-to-peer curriculum: systems programming, algorithms, memory management, networking in C/C++ and Python.
+                                                                                                                   Graduated Jan 2022
+B.Sc. Computer Science Eötvös Loránd University (ELTE) — Budapest, Hungary
+                                                                                                                       Graduated 2017
+B.Prof. Geo-information & Territorial Modeling Moulay Ismail University — Meknes, Morocco
+PROJECTS & CONTINUOUS LEARNING
+• 42 Wolfsburg: Building low-level C projects — custom shell, memory allocator, and networking tools.
+• GitHub Portfolio: github.com/Evil4eveR — open-source contributions and personal projects.
+• Self-learning: Docker, cloud infrastructure (AWS basics), REST API design patterns.
+LANGUAGES
+English — Proficient | French — Proficient | Arabic — Native | German — Beginner (A1–A2, actively learning)
+
