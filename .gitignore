@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+.next/
+out/
+dist/
+build/
+
+# Environment files — never commit real secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database files — never commit SQLite or migrations data
+db/
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# User uploads — never commit user-generated files
+upload/
+uploads/
+
+# Logs
+*.log
+dev.log
+server.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Bun
+bun.lockb
+
+# Prisma generated client (regenerate with: bun run db:generate)
+# Uncomment if you prefer not to commit generated client:
+# node_modules/.prisma/
