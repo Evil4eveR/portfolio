@@ -174,21 +174,48 @@ export default function Portfolio() {
     setCurrentAccent(color);
   };
 
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setIsSubmitting(true);
-    
-    // Simulate form submission
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    
+const handleSubmit = async (e: React.FormEvent) => {
+  e.preventDefault();
+  setIsSubmitting(true);
+
+  try {
+    const res = await fetch("/api/contact", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        name: formData.name,
+        email: formData.email,
+        subject: "Portfolio Contact",
+        message: formData.message,
+      }),
+    });
+
+    const json = await res.json();
+
+    if (!res.ok) {
+      toast({
+        title: "Error",
+        description: json.error ?? "Something went wrong. Please try again.",
+        variant: "destructive",
+      });
+      return;
+    }
+
     toast({
       title: "Message Sent!",
       description: "Thank you for reaching out. I'll get back to you soon!",
     });
-    
     setFormData({ name: "", email: "", message: "" });
+  } catch {
+    toast({
+      title: "Error",
+      description: "Network error. Please check your connection.",
+      variant: "destructive",
+    });
+  } finally {
     setIsSubmitting(false);
-  };
+  }
+};
 
   const scrollToSection = (id: string) => {
     const element = document.getElementById(id);
