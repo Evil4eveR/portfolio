@@ -322,7 +322,7 @@ export default function Portfolio() {
                   <Linkedin className="h-5 w-5" />
                 </a>
                 <a 
-                  href="mailto:ymarmond@gmail.com"
+                  href="mailto:ymarmoud@gmail.com"
                   className="p-2 rounded-full border border-border hover:border-foreground transition-all duration-300 hover:scale-110"
                 >
                   <Mail className="h-5 w-5" />
@@ -704,9 +704,9 @@ export default function Portfolio() {
 
           {/* Contact Info */}
           <div className="mt-8 flex flex-wrap justify-center gap-6 text-muted-foreground">
-            <a href="mailto:ymarmond@gmail.com" className="flex items-center gap-2 hover:text-foreground transition-colors">
+            <a href="mailto:ymarmoud@gmail.com" className="flex items-center gap-2 hover:text-foreground transition-colors">
               <Mail className="h-5 w-5" style={{ color: "var(--accent-color)" }} />
-              ymarmond@gmail.com
+              ymarmoud@gmail.com
             </a>
             <a href="tel:+4915213154958" className="flex items-center gap-2 hover:text-foreground transition-colors">
               <Phone className="h-5 w-5" style={{ color: "var(--accent-color)" }} />
